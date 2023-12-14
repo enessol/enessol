@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Enes</h1>
-<h3 align="center">A self-taught Front-End Developer to be</h3>
+<h3 align="center">Front-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enessol&label=Profile%20views&color=0e75b6&style=flat" alt="enessol" /> </p>
 
