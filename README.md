@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enessol&label=Profile%20views&color=0e75b6&style=flat" alt="enessol" /> </p>
 
-- 🌱 I’m currently learning: **Javascript**
+- 🌱 I’m currently learning: **Flutter**
 
-- 🔭 2022 Goals: **Become comfortable creating Websites and apps**
+- 🔭 2022 Goals: **Writing tests and reading the documentation**
 
-- ⚡ Fun fact: **I love to colorize old pictures, and edit videos and pictures. To find more about my hobby follow my colorizing page on Instagram: [Rengarenktarih](https://www.instagram.com/rengarenktarih/)**
+- ⚡ Fun fact: **I love to colorize old pictures, and edit videos and pictures, playing around with photoshop**
 <br />
 <h3 align="center">Connect with me:</h3>
 <br />
