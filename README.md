@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Flutter**
 
-- 🔭 2022 Goals: **Writing tests and reading the documentation**
+- 🔭 2024 Goals: **Writing tests and reading the documentation**
 
 - ⚡ Fun fact: **I love to colorize old pictures, and edit videos and pictures, playing around with photoshop**
 <br />
