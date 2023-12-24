@@ -1,4 +1,4 @@
-![banner](https://github.com/enessol/myscreeshots/assets/94052771/e534981f-512a-4c52-82dd-87d912d437e2)
+![banner](https://github.com/enessol/myscreeshots/assets/94052771/c8bc774a-33c3-4108-b148-71234165346a)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enessol&label=Profile%20views&color=0e75b6&style=flat" alt="enessol" /> </p>
 
