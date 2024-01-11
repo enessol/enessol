@@ -48,9 +48,7 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='50' /> <h2 align="center">My Github Stats:</h2>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/enessol/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=enessol&theme=react&border=61dafb&hide_border=true" alt="enessol" />
-    </a>
+   <a href="https://git.io/streak-stats"><img align="left" width=415 src="https://github-readme-streak-stats-six-jade.vercel.app?user=enessol&theme=react" alt="GitHub Streak" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=enessol&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
